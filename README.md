@@ -1,5 +1,5 @@
 # mVein-sigorta
-- Vehicle insurance system with an amount of 10% of the sales price of all vehicles defined in qb-core! [QBCORE]
+- Vehicle insurance system with an amount of 10% of the sales price of all vehicles defined in qb-core!
 - New QBCore
 
 # Showcase (tr)
